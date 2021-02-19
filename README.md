@@ -1,4 +1,5 @@
 ## I'm a beginner java backend developer 
+- 🌱 I'm currently learning RabbitMQ.
 
 ### Languages and Frameworks:
 ![Java](https://img.shields.io/badge/-Java-f89918?style=for-the-badge&logo=java&logoWidth=20)
